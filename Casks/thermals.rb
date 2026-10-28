@@ -1,6 +1,6 @@
 cask "thermals" do
-  version "0.4.3"
-  sha256 "dea0a92a1b580cc67a0bc703bf3650b0dfebf0abebeaa779d79970349f6ef86e"
+  version "0.4.4"
+  sha256 "061dbca4b7d43fa1bb7435585a4f76bab263ee3fafef22add934e39cd4705b63"
 
   url "https://github.com/radkode/homebrew-thermals/releases/download/v#{version}/Thermals-#{version}.zip"
   name "Thermals"
